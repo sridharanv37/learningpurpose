@@ -1,3 +1,5 @@
+
+abcd
 merge conflict
 abcd
 
